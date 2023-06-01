@@ -27,3 +27,14 @@
     font-size: 20px;
     color: blue;
   }
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 40;
+    padding: 30;
+    margin: 0;
+    background-color: #fffafa;
+    background-image: url("https://w.wallhaven.cc/full/j3/wallhaven-j315yy.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
